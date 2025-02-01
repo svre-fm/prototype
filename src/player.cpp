@@ -9,5 +9,5 @@ void Player::update() {
 }
 
 void Player::draw() {
-    DrawRectangle(x, y, 50, 50, BLUE);
+    DrawRectangle(x, y, 50, 50, RED);
 }
